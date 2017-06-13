@@ -5,7 +5,9 @@
 
 ### 一个简单的react-webpack2 demo
 
-如果你不想用redux、mobx，如果你只是想用react和webpack来做你的事情，那么该demo非常适合你，是基于官网的demo-app完善而来， ### 所用到的插件皆为最新版。
+### 所用到的插件皆为最新版本
+
+如果你不想用redux、mobx，如果你只是想用react和webpack来做你的事情，那么该demo非常适合你，是基于官网的demo-app完善而来， 所用到的插件皆为最新版。
 
 如果你只是react新手，你会发现react的世界非常有趣。
 
