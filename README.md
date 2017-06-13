@@ -25,31 +25,31 @@ http://localhost:8080/index.html
 
 #### package.json配置
 
- "devDependencies": {
-    "babel-core": "^6.25.0",
-    "babel-loader": "^7.0.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "babel-preset-stage-1": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1",
-    "css-loader": "^0.23.1",
-    "extract-text-webpack-plugin": "^2.1.2",
-    "file-loader": "^0.11.2",
-    "html-webpack-plugin": "^2.28.0",
-    "jquery": "^3.2.1",
-    "postcss-loader": "^2.0.5",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "style-loader": "^0.13.2",
-    "url-loader": "^0.5.7",
-    "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5"
-  },
-  "dependencies": {
-    "react-hot-loader": "^1.3.1",
-    "babel-polyfill": "^6.23.0",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
-  }
+	"devDependencies": {
+		"babel-core": "^6.25.0",
+		"babel-loader": "^7.0.0",
+		"babel-preset-es2015": "^6.24.1",
+		"babel-preset-react": "^6.24.1",
+		"babel-preset-stage-0": "^6.24.1",
+		"babel-preset-stage-1": "^6.24.1",
+		"babel-preset-stage-2": "^6.24.1",
+		"css-loader": "^0.23.1",
+		"extract-text-webpack-plugin": "^2.1.2",
+		"file-loader": "^0.11.2",
+		"html-webpack-plugin": "^2.28.0",
+		"jquery": "^3.2.1",
+		"postcss-loader": "^2.0.5",
+		"react": "^15.5.4",
+		"react-dom": "^15.5.4",
+		"style-loader": "^0.13.2",
+		"url-loader": "^0.5.7",
+		"webpack": "^2.6.1",
+		"webpack-dev-server": "^2.4.5"
+	},
+	"dependencies": {
+		"react-hot-loader": "^1.3.1",
+		"babel-polyfill": "^6.23.0",
+		"react": "^15.5.4",
+		"react-dom": "^15.5.4"
+	}
 
