@@ -12,7 +12,7 @@ module.exports = {
     devServer: {
         contentBase: './',
         inline: true, // 项目文件保存自动编译文件模块
-        port: 8070
+        port: 8080
     }, 
     module: {
       loaders: [
